@@ -4,7 +4,7 @@ class Calculator{
 		int b = 10;
 		
 		Console.WriteLine("Hasil Penambahan: {0} + {1} = {2}", a, b, penambahan(a,b));
-		Console.WriteLine("Hasil Pengurangan: {0} - {1} = {2}", a, b, penngurangan(a,b));
+		Console.WriteLine("Hasil Pengurangan: {0} - {1} = {2}", a, b, pengurangan(a,b));
 		Console.WriteLine("\n Tekan sembarang key untuk keluar");
 		Console.ReadKey();
 		}
